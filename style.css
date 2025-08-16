@@ -1,0 +1,21 @@
+body{
+    color:white;
+    background-color:black;
+}
+
+a:link{
+    color:#0044ff;
+}
+
+a:link:hover{
+    color:#0066ff;
+}
+
+a:visited{
+    color:purple;
+}
+
+a:visited:hover{
+    color:#80008f;
+}
+
